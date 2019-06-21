@@ -1,0 +1,204 @@
+
+.cabeca{
+    width: 100%;
+    height: 15%;
+    background-color: #1f2746;
+}
+
+.logo{
+    float: left;
+    width: 30%;
+    position: absolute;
+    padding-top: 1%;
+    margin-left: 2%;
+}
+
+.menus ul li {
+    padding-top: 3%;
+    display: inline-block;
+    float: right;
+    width: 10%;
+    font-size: 23px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100%;
+    padding-left: 3.5%;
+}
+.menus ul li:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+
+.ultimo-li{
+    margin-right: 5%;
+   
+}
+
+.img-principal{
+    width: 100%;
+    height: 80%;
+    position: relative;
+}
+
+.texto{
+    width:  100%;
+    height: 25%;
+}
+
+.texto h1{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 5%;
+    font-family: Helvetica;
+    font-weight: 700;
+}
+
+.texto hr{
+    margin-top: 1.5%;
+    width: 3%;
+    height: 1.5%;
+    background-color:  #1f2746;
+    border: 0;
+}
+
+.texto p{
+    padding-top: 3%;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: Helvetica;
+    line-height: 140%;
+    padding-bottom: 15%;
+}
+
+.lado-r{
+    margin-top: 10%;
+    float: right;
+    width: 40%;
+    height: 50%;
+    margin-right: 8%;
+}
+
+.conteudo{
+    float: left;
+    width: 22%;
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+.conteudo-2{
+    float: right;
+    width: 132%;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: -11%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    margin-right: 5%;
+    line-height: 120%;
+}
+
+.linha-1{
+    width: 15%;
+    
+}
+
+.lado-l{
+    margin-top: 35%;
+    float: left;
+    width: 40%;
+    height: 45%;
+    margin-left: 12%;
+}
+
+.conteudo-3{
+    float: right;
+    width: 22%;
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 65%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+.conteudo-4{
+    float: right;
+    width: 130%;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: -12%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    margin-right: 5%;
+    line-height: 120%;
+}
+
+.espacamento{
+    height: 120%;
+}
+
+.titulo-post{
+    font-size: 30px;
+    float: left;
+    margin-left: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-texto{
+    width: 60%;
+    height: 60%;
+    background-color: gainsboro;
+    margin-left: 20%;
+    margin-top: 3%;
+    border-radius: 2%;
+
+}
+.box-texto p {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2%;
+    line-height: 170%;
+
+}
+
+.roda-pé{
+    margin-top: 1%;
+    width: 100%;
+    height: 30%;
+    background-color: gray;
+}
+
+.texto-roda-pé{
+    font-size: 17px;
+    width: 30%;
+    margin-left: 10%;
+    padding-top: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 120%;
+    float: left;
+}
+
+.texto-roda-pé-2{
+    font-size: 17px;
+    width: 30%;
+    margin-right: 20%;
+    padding-top: 2%;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 120%;
+}
+
+.texto-roda-pé-3{
+    font-size: 17px;
+    width: 30%;
+    margin-right: 10%;
+    padding-top: 2%;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 120%;
+}
